@@ -2,6 +2,8 @@
 
 Qingdao UAV-borne HSI (QUH) dataset consists of three sub-datasets: QUH-Tangdaowan, QUH-Qingyun, and QUH-Pingan, which are freely available as benchmarks for precise land cover classification.
 
+Baidu Drive：
+
 The QUH-Tangdaowan dataset: it contains a variety of irregular land covers with very similar spectral curves, such as four vegetation species: Coniferous pine, Buxus sinica, Populus, Ulmus pumila L, and three pavements: Flagging, Boardwalk, Gravel road, which undoubtedly poses a great challenge for precise classification.
 ![image](https://user-images.githubusercontent.com/112471583/221394134-e814ea75-daba-4d74-bba3-26887a65d10c.png)![image](https://user-images.githubusercontent.com/112471583/221394293-1d480aae-ce1e-49f1-8995-2c608f0f9f29.png)
 
