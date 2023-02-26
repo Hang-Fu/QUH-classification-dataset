@@ -17,3 +17,5 @@ The QUH-Pingan dataset: it has a relatively regular distribution of land cover, 
 
 # Download
 Matlab format: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
+链接：https://pan.baidu.com/s/1gDpP_n3IgdLrHIOlZv3O2w 
+提取码：1234
