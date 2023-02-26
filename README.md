@@ -6,7 +6,7 @@ The QUH-Tangdaowan dataset: it contains a variety of irregular land covers with 
 ![image](https://user-images.githubusercontent.com/112471583/221394134-e814ea75-daba-4d74-bba3-26887a65d10c.png)![image](https://user-images.githubusercontent.com/112471583/221394293-1d480aae-ce1e-49f1-8995-2c608f0f9f29.png)
 
 
-The QUH-Qingyun dataset: it has areas obscured by building shadows, including classes such as Trees, Car, and Asphalt road (Fig. 7). The interference of shadows can significantly reduce the accuracy of identification and can be used to assess the robustness of the classification methods.
+The QUH-Qingyun dataset: it has areas obscured by building shadows, including classes such as Trees, Car, and Asphalt road. The interference of shadows can significantly reduce the accuracy of identification and can be used to assess the robustness of the classification methods.
 
 ![image](https://user-images.githubusercontent.com/112471583/221394143-fd2ca551-4a06-4c15-b2a5-e70155f1ef56.png)![image](https://user-images.githubusercontent.com/112471583/221394299-7ba55d05-119e-40a8-bcc8-5f30d9e59752.png)
 
