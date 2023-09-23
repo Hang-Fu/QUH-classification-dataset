@@ -1,4 +1,5 @@
-We give the disjoint training and test sets used, which can be viewed by running Demo_show_training_testing.m. Our classification results are also given.
+We give the disjoint training and test sets used, which can be viewed by running Demo_show_training_testing.m. We also give the classification result maps of the proposed RC-3DSSA. For detailed classification accuracy, please see:
+H. Fu, G. Sun, L. Zhang, A. Zhang, J. Ren, X. Jia, et al., "Three-dimensional singular spectrum analysis for precise land cover classification from UAV-borne hyperspectral benchmark datasets," ISPRS Journal of Photogrammetry and Remote Sensing, vol. 203, pp. 115-134, 2023. https://doi.org/10.1016/j.isprsjprs.2023.07.013.
 
 # Data Download (Matlab format) 
 BaiduCloud: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
