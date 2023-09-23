@@ -1,4 +1,11 @@
-# QUH-classification-dataset
+We give the disjoint training and test sets used, which can be viewed by running Demo_show_training_testing.m. Our classification results are also given.
+
+# Data Download (Matlab format) 
+BaiduCloud: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
+
+Zenodo: https://zenodo.org/record/8223066
+
+# Introduction to QUH-classification-dataset 
 
 Qingdao UAV-borne HSI (QUH) dataset consists of three sub-datasets: QUH-Tangdaowan, QUH-Qingyun, and QUH-Pingan, which are freely available as benchmarks for precise land cover classification.
 
@@ -15,7 +22,4 @@ The QUH-Pingan dataset: it has a relatively regular distribution of land cover, 
 
 ![image](https://user-images.githubusercontent.com/112471583/221394154-c4283ea6-0318-4e99-8071-cb23ee057c37.png)![image](https://user-images.githubusercontent.com/112471583/221394306-5a0d34f2-963e-4783-bf0d-1144affd98a0.png)
 
-# Download (Matlab format) 
-BaiduCloud: https://pan.baidu.com/s/1uWKr2bcetF53_OLd08rovg (extraction code: 1234)
 
-Zenodo: https://zenodo.org/record/8223066
